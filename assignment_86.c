@@ -5,7 +5,7 @@
    
 int main()  
 {  
-    char string[] = "My name is Armaan";  
+    char string[] = "My name is Niranjan";  
     int count = 0;  
       
     for(int i = 0; i < strlen(string); i++) {  
